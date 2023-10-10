@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haloindra&label=Profile%20views&color=0e75b6&style=flat" alt="haloindra" /> </p>
 
+# 💫 About Me:
 - 🌱 I’m currently learning **Automation Testing With Many Framework**
 
 - 💬 Ask me about **Automation Testing**
