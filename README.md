@@ -26,4 +26,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haloindra&show_icons=true&locale=en&layout=compact" alt="haloindra" /></p>
