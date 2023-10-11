@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Indra Rasendriya</h1>
 <h3 align="center">Precision and Perfection: My Role in Quality Assurance</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haloindra&label=Profile%20views&color=0e75b6&style=flat" alt="haloindra" /> </p>
-
 # 💫 About Me:
 - 🌱 I’m currently learning **Automation Testing With Many Framework**
 
