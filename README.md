@@ -2,7 +2,7 @@
 <h3 align="center">Precision and Perfection: My Role in Quality Assurance</h3>
 
 # 💫 About Me:
-- 🌱 I’m currently learning **Automation Testing With Many Framework**
+- 🌱 I’m currently learning **Automation Testing With Cypress and Selenium**
 
 - 💬 Ask me about **Automation Testing**
 
